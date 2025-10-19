@@ -1,0 +1,11 @@
+{
+  "name": "formatter-plugin",
+  "description": "コードフォーマットとレビュー機能を提供するプラグイン",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "keywords": ["formatter", "code-review", "lint", "prettier"],
+  "license": "MIT"
+}
