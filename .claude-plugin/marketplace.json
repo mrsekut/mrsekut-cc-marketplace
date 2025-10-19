@@ -7,6 +7,14 @@
 	},
 	"plugins": [
 		{
+			"name": "setup",
+			"source": "./",
+			"description": "Setup project",
+			"version": "1.0.0",
+			"author": { "name": "mrsekut" },
+			"commands": ["./commands/setup-ts.md", "./commands/fetch-rules.md"]
+		},
+		{
 			"name": "context7",
 			"source": "./",
 			"description": "Context7 MCP Server",
