@@ -6,15 +6,5 @@
     "email": "k.cloudspider@gmail.com"
   },
   "plugins": [
-    {
-      "name": "greeting-plugin",
-      "source": "./plugins/greeting-plugin",
-      "description": "シンプルな挨拶コマンドを提供するプラグイン"
-    },
-    {
-      "name": "formatter-plugin",
-      "source": "./plugins/formatter-plugin",
-      "description": "コードフォーマット機能を提供する高度なプラグイン"
-    }
   ]
 }
