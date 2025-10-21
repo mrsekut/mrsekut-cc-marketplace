@@ -7,6 +7,14 @@
 	},
 	"plugins": [
 		{
+			"name": "spec",
+			"source": "./",
+			"description": "spec-driven development",
+			"version": "1.0.0",
+			"author": { "name": "mrsekut" },
+			"commands": ["./commands/spec.md"]
+		},
+		{
 			"name": "setup",
 			"source": "./",
 			"description": "Setup project",
